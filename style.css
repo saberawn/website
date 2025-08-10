@@ -240,6 +240,24 @@ section{
 .soial-icons a:hover {
     color: #2563eb;
 }
+#contact-form {
+    padding: 50px 20px;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+#contact-form .form-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+#contact-form iframe {
+    width: 100%;
+    height: 700px;
+    border: none;
+    border-radius: 10px;
+}
+
 
 @media (max-width:1023px){
     header{
