@@ -201,12 +201,6 @@ footer {
         gap: 10px;
     }
     
-    header > div:first-child {
-        flex-direction: column;
-        gap: 15px;
-        text-align: center;
-    }
-    
     .back-btn {
         margin-top: 10px;
         font-size: 0.85em;
