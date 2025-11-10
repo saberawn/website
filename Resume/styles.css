@@ -52,7 +52,18 @@ header a {
 header a:hover {
     color: #fff;
 }
-
+.soial-icons i {
+    color: #fff;
+    font-size: 1.7em;
+    padding-right: 10px;
+}
+.soial-icons a {
+    color: #fff;
+    font-size: 1.7em;
+    padding-right: 30px;}
+.soial-icons a:hover {
+    color: #2563eb;
+}
 /* Section Styles */
 section {
     background: white;

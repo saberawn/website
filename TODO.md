@@ -1,0 +1,2 @@
+- [x] Fix Font Awesome icon classes in Resume/my_resume.html (change fa-brands to fa-solid for location, envelope, phone icons)
+- [x] Update Resume/styles.css to style the <i> elements in .soial-icons for proper size and spacing
