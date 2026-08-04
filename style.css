@@ -135,6 +135,17 @@ section{
     transform: scale(1.1);
 }
 
+/* Mobile: show the full background image without cropping so the
+   whole face is visible on narrow screens */
+@media (max-width: 1023px){
+    .main {
+        background-position: 81% center;
+        background-size: 330% auto;
+        background-attachment: scroll;
+        background-color: #000;
+    }
+}
+
 .soial-icons a {
     color: #fff;
     font-size: 1.7em;
